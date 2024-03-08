@@ -1,16 +1,14 @@
 ### Hi there 👋
+My name is Daniel Kause, I am a professional photographer since the 1990s. Futhermore I got certificate as a UX Designer and a Full Stack Developer.
+Though I am a specialist, I can offer you the whole website experience:
 
-<!--
-**dkause/dkause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Concept and Layout
+- Prototyping and UX Research
+- Implementation, programming of apps in React and Angular
+- Html, CSS and JS in general
 
-Here are some ideas to get you started:
+You could call me a Full Stack Designer.
+I am looking for freelance projects and may be employment up to 25hrs a week.
+If the company interests, me I am open for more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: d.g.kause@gmail.com
