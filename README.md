@@ -8,9 +8,9 @@ Though I am a specialist, I can offer you the whole website experience:
 - Html, CSS and JS in general
 
 You could call me a Full Stack Designer.
-I am looking for freelance projects and may be employment up to 25hrs a week.
-If the company interests, me I am open for more.
+I am looking for freelance projects and maybe an employment up to 25hrs a week.
+If the company interests me, I am open for more.
 
 📫 How to reach me: d.g.kause@gmail.com
 
-![Daniel Kause](./Kause-1000px.jpg)
+![Daniel Kause](./Daniel_Kause-300px.jpg)
